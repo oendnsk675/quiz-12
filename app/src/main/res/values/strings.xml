@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizPertemuan12</string>
+
+    <string-array name="religion">
+        <item>- Pilih Agama -</item>
+        <item>Islam</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+        <item>Kristen</item>
+    </string-array>
+
+</resources>
